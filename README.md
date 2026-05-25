@@ -59,6 +59,7 @@ I'm a final-year **Master of Computer Science** student at **Edith Cowan Univers
         ## 🚀 Featured Projects
 
         ### 📊 Dataset Data Analysis — MLData2026 | Edith Cowan University
+
         > Cleaned and analysed a large real-world dataset to uncover patterns and quality issues.
         >
         > - Processed and cleaned data using **Python, Pandas, NumPy and Matplotlib**
@@ -69,6 +70,7 @@ I'm a final-year **Master of Computer Science** student at **Edith Cowan Univers
         >       - ---
         >
         > ### 🤖 Machine Learning — Retinal Image Analysis | Edith Cowan University
+        >
         > > Built an image classification pipeline for retinal disease detection using deep learning.
         > >
         > > - Designed and trained a **deep learning model** with Python and TensorFlow
@@ -81,11 +83,13 @@ I'm a final-year **Master of Computer Science** student at **Edith Cowan Univers
         > > ## 💼 Professional Experience
         > >
         > > **Remote Team Support Assistant** *(2023 – Present)*
+        > >
         > > - Coordinated tasks and workflow via Microsoft Teams, Zoom and email
         > > - - Prepared documentation to improve accountability and visibility across distributed teams
         > >   - - Managed multiple priorities in a professional environment with accuracy and timely follow-up
         > >    
         > >     - **Customer Service & Operations Assistant** — Perth, WA / India *(2022 – 2023)*
+        > >    
         > >     - - Delivered customer-focused support in retail, hospitality and warehouse environments
         > >       - - Handled records, inventory support, payment processing and workplace organisation
         > >        
