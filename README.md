@@ -13,19 +13,19 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
 I'm a final-year **Master of Computer Science** student at **Edith Cowan University, Perth WA**, passionate about turning raw data into clear, actionable insights. I have hands-on experience with Python, SQL, data cleaning, data analysis, visualisation, machine learning and database systems.
 
-- 🔭 Currently working on data analysis and machine learning projects at ECU
-- - 🌱 Expanding my skills in IBM tools, enterprise data technologies and cloud platforms
-  - - 🤝 Open to **data analyst / data science internship** opportunities
-    - - 💬 Ask me about Python, Pandas, SQL, or machine learning workflows
-      - - 📫 Reach me at **karthik.g.6777@gmail.com**
+- Currently working on data analysis and machine learning projects at ECU
+- - Expanding my skills in IBM tools, enterprise data technologies and cloud platforms
+  - - Open to **data analyst / data science internship** opportunities
+    - - Ask me about Python, Pandas, SQL, or machine learning workflows
+      - - Reach me at **karthik.g.6777@gmail.com**
        
         - ---
 
-        ## 🛠️ Tech Stack
+        ## Tech Stack
 
         **Languages**
 
@@ -56,9 +56,9 @@ I'm a final-year **Master of Computer Science** student at **Edith Cowan Univers
 
         ---
 
-        ## 🚀 Featured Projects
+        ## Featured Projects
 
-        ### 📊 Dataset Data Analysis — MLData2026 | Edith Cowan University
+        ### Dataset Data Analysis — MLData2026 | Edith Cowan University
 
         > Cleaned and analysed a large real-world dataset to uncover patterns and quality issues.
         >
@@ -69,7 +69,7 @@ I'm a final-year **Master of Computer Science** student at **Edith Cowan Univers
         >      
         >       - ---
         >
-        > ### 🤖 Machine Learning — Retinal Image Analysis | Edith Cowan University
+        > ### Machine Learning — Retinal Image Analysis | Edith Cowan University
         >
         > > Built an image classification pipeline for retinal disease detection using deep learning.
         > >
@@ -80,7 +80,7 @@ I'm a final-year **Master of Computer Science** student at **Edith Cowan Univers
         > >      
         > >       - ---
         > >
-        > > ## 💼 Professional Experience
+        > > ## Professional Experience
         > >
         > > **Remote Team Support Assistant** *(2023 – Present)*
         > >
@@ -95,18 +95,18 @@ I'm a final-year **Master of Computer Science** student at **Edith Cowan Univers
         > >        
         > >         - ---
         > >
-        > > ## 🎓 Education
+        > > ## Education
         > >
         > > | Degree | Institution | Year |
         > > |---|---|---|
-        > > | 🎓 Master of Computer Science | Edith Cowan University, Perth WA | Expected 2027 |
-        > > | 🎓 Bachelor of Computer Science | RajaRajeswari College of Engineering | 2022 |
+        > > | Master of Computer Science | Edith Cowan University, Perth WA | Expected 2027 |
+        > > | Bachelor of Computer Science | RajaRajeswari College of Engineering | 2022 |
         > >
         > > **Relevant Coursework:** Database Systems · Systems Analysis · Artificial Intelligence · Software Engineering · Distributed Systems · Programming Principles
         > >
         > > ---
         > >
-        > > ## 📊 GitHub Stats
+        > > ## GitHub Stats
         > >
         > > <div align="center">
 
@@ -117,15 +117,15 @@ I'm a final-year **Master of Computer Science** student at **Edith Cowan Univers
 
         ---
 
-        ## 🏅 Certifications & Community
+        ## Certifications & Community
 
-        - 🏛️ **Member**, Australian Computer Society
-        - - 🌐 **Attended** Cyber West Event, 2025
-          - - 📜 **Coursera:** Getting Started with Microsoft Excel; Programming in Python
+        - Member, **Australian Computer Society**
+        - - Attended **Cyber West Event, 2025**
+          - - **Coursera:** Getting Started with Microsoft Excel; Programming in Python
            
             - ---
 
-            ## 🤝 Let's Connect!
+            ## Let's Connect!
 
             I'm actively seeking **data analyst / data science** opportunities and collaborations. Feel free to reach out — I'd love to connect!
 
